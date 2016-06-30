@@ -18,7 +18,9 @@ using namespace std;
 
 const float PI = 3.14159265359f;
 
-const unsigned int WINDOW_WIDTH  = 640;
-const unsigned int WINDOW_HEIGHT = 480;
+const unsigned int WINDOW_WIDTH  = 1000;
+const unsigned int WINDOW_HEIGHT = 800;
+
+const float DIFFICULTY_SCALE = 0.75f;
 
 #endif

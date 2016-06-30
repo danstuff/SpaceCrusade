@@ -1,0 +1,13 @@
+Music by Shawn Daley:
+https://soundcloud.com/shawndaley
+
+Everything else done by Dan using all these free tools:
+Programming Environment- Microsoft Visual Studio 2010 http://www.visualstudio.com/
+Graphics Framework- SFML http://www.sfml-dev.org/index.php
+Image Editor- GIMP http://www.gimp.org/
+8 Bit Sound Effect Synth- as3sfxr http://www.superflashbros.net/as3sfxr/
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License:
+http://creativecommons.org/licenses/by-sa/4.0/
+
+Are you planning on using this game in your next youtube video or other work? Let us know at:
